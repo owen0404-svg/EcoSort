@@ -6,9 +6,14 @@ Additionally, the app calculates an **estimated carbon footprint** for the item,
 
 ---
 
+## 📸 Demo Preview
+![EcoSort Demo](demo.jpg)
+
+---
+
 ## ❓ The Problem
 Waste mismanagement is a major global issue:  
-- Over **2 billion tons of waste** are generated every year, with much of it ending up in landfills or oceans.  
+- Over **2 billion tons of waste** are generated every year, much of it ending up in landfills or oceans.  
 - Many people are unsure how to properly **separate waste**, leading to **contamination of recycling streams**.  
 - The **environmental impact of waste** (such as CO₂ emissions from production and disposal) is often invisible to individuals.  
 
@@ -74,3 +79,9 @@ EcoSort contributes to multiple UN SDGs:
 
 ---
 
+## 📦 Installation & Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/ecosort.git
+   cd ecosort
