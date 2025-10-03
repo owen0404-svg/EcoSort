@@ -7,7 +7,7 @@ Additionally, the app calculates an **estimated carbon footprint** for the item,
 ---
 
 ## 📸 Demo Preview
-![EcoSort Demo](demo.jpg)
+![EcoSort Demo](EcoSortDemo.jpg)
 
 ---
 
@@ -79,9 +79,26 @@ EcoSort contributes to multiple UN SDGs:
 
 ---
 
-## 📦 Installation & Setup
+## 🔮 Future Improvements
+- 📊 **Data Analytics Dashboard** – Track waste statistics for households and communities.  
+- 🤖 **Custom AI Model Training** – Improve classification accuracy with localized datasets.  
+- 🌍 **Expanded Categories** – Include hazardous waste, textiles, and medical waste.  
+- 🔗 **Integration with City Systems** – Connect with municipal recycling and waste services.  
+- 🎮 **Gamification** – Rewards and achievements to encourage consistent waste sorting.  
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/ecosort.git
-   cd ecosort
+---
+
+## 👥 Team 0404
+EcoSort was proudly built by **Team 0404**:  
+- 🧑‍💻 **Owen** – Frontend & AI Integration  
+- 🎨 **Leonard** – UI/UX Design & Branding  
+- ⚙️ **Dave** – API Handling  
+- 📊 **Jomax** – UI/UX Design
+
+---
+
+## 📂 Project Links
+- 🎥 **Presentation Video**: [Watch Here](https://drive.google.com/file/d/16wHYhyTR3qC_f-AhIB2Wi-RvcX7w2ym8/view)  
+- 📑 **Pitch Deck / Presentation**: [View Here](https://www.canva.com/design/DAG0chYJrXs/UciAz-zw6tb0JXNTmP73HQ/edit)  
+- 📹 **Demo Video**: [Watch Here](https://drive.google.com/file/d/1KPQZHrGqdajC6FA7-exM3sDbYwI3gJea/view?usp=sharing )  
+- 🌐 **Live Demo**: [Try EcoSort](https://sweet-marigold-f6d112.netlify.app/)  
