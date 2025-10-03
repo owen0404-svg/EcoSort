@@ -7,7 +7,7 @@ Additionally, the app calculates an **estimated carbon footprint** for the item,
 ---
 
 ## 📸 Demo Preview
-![EcoSort Demo](EcoSortDemo.png)
+![EcoSort Demo](EcoSortDemo1.png)
 
 ---
 
